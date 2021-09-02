@@ -1,7 +1,7 @@
 # James Millar - DistinctlyMinty
 
 
-<!-- ![James Millar](/images/jamesmillar.png) -->
+[James Millar](https://steuwwebjm.blob.core.windows.net/images/jamesmillar.png)
 
 ### Hi there 👋 I'm James Millar
 
