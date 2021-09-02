@@ -1,16 +1,24 @@
-### Hi there 👋
+# James Millar - DistinctlyMinty
 
-<!--
-**Distinctlyminty/Distinctlyminty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- ![James Millar](/images/jamesmillar.png) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋 I'm James Millar
+
+I'm a freelance software developer, Company Director, Pluralsight Author,  LinkedIn Learning Author, Public Speaker, Podcaster, AWS Community Hero and Blogger.
+
+## More about me
+
+I do my best work in the cloud, be that Azure or AWS and I've spent many years working in and around the IoT space, telephony and much more besides.
+
+## You can find me in the following places;
+
+- [Website](https://www.james-millar.co.uk "Website)
+- [Github](https://github.com/distinctlyminty "Github")
+- [Twitter - @jamesmillar](https://twitter.com/jamesmillar "Twitter - jamesmillar")
+- [LinkedIn](https://www.linkedin.com/in/jamesmillar/ "LinkedIn")
+- [Pluralsight](https://www.pluralsight.com/authors/james-millar "Pluralsight")
+
+
+
+💬 Ask me about Mentoring
