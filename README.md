@@ -5,7 +5,7 @@
 
 ### Hi there 👋 I'm James Millar
 
-I'm a freelance software developer, Company Director, Pluralsight Author,  LinkedIn Learning Author, Public Speaker, Podcaster, AWS Community Hero and Blogger.
+I'm a freelance software developer, Company Director, Pluralsight Author,  LinkedIn Learning Author, Public Speaker, Podcaster and Blogger.
 
 ## More about me
 
@@ -22,3 +22,5 @@ I do my best work in the cloud, be that Azure or AWS and I've spent many years w
 
 
 💬 Ask me about Mentoring
+
+I'm always available to help those new to software development so reach out if you need any support.
